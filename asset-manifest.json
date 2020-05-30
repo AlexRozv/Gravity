@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Gravity/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Gravity/static/js/main.60a2998e.chunk.js",
+    "main.js.map": "/Gravity/static/js/main.60a2998e.chunk.js.map",
+    "runtime-main.js": "/Gravity/static/js/runtime-main.e182e1a6.js",
+    "runtime-main.js.map": "/Gravity/static/js/runtime-main.e182e1a6.js.map",
+    "static/js/2.6ec0ead4.chunk.js": "/Gravity/static/js/2.6ec0ead4.chunk.js",
+    "static/js/2.6ec0ead4.chunk.js.map": "/Gravity/static/js/2.6ec0ead4.chunk.js.map",
+    "index.html": "/Gravity/index.html",
+    "precache-manifest.b02e3aca380de9c66835aa200e1d1c70.js": "/Gravity/precache-manifest.b02e3aca380de9c66835aa200e1d1c70.js",
+    "service-worker.js": "/Gravity/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Gravity/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6ec0ead4.chunk.js.LICENSE.txt": "/Gravity/static/js/2.6ec0ead4.chunk.js.LICENSE.txt",
+    "static/media/Placeholdervideo.png": "/Gravity/static/media/Placeholdervideo.c73e6d97.png",
+    "static/media/hero-img.png": "/Gravity/static/media/hero-img.fd9e41f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e182e1a6.js",
+    "static/js/2.6ec0ead4.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.60a2998e.chunk.js"
+  ]
+}
